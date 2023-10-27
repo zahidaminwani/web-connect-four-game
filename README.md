@@ -1,2 +1,2 @@
-# web-connect-four-game
+# Connect-Four
 Connect Four online game
